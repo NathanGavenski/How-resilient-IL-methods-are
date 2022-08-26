@@ -1,0 +1,25 @@
+# Envs and experts
+stable-baselines3[extra]
+git+https://github.com/hill-a/stable-baselines
+gym==0.21.0
+
+# Dependencies
+mpi==1.0.0
+mpi4py==3.1.3
+numpy==1.20
+box2d-py
+
+# Utilities
+tensorboard
+tensorboard-wrapper
+tqdm
+gdown
+
+# For tensorflow models
+tensorflow-gpu==1.15
+
+# For pytorch models
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.0+cu110 
+torchvision==0.8.1+cu110 
+torchaudio==0.7.0

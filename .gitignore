@@ -1,0 +1,20 @@
+__pycache__
+
+# Expert files
+*.npy
+*.npz
+*.txt
+*.zip
+*.ckpt
+Expert/*
+!requirements/*.txt
+
+# temporary files
+tmp/*
+
+# ILPO files
+Datasets/*/ILPO/
+
+# IDE files
+.vscode/
+.idea/
