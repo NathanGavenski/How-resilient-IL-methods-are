@@ -75,7 +75,7 @@ def create_expert(
         os.makedirs('./Expert/')
 
     if model is None:
-        model, _ = Algo().get_algo(algo)(Domain().get('name'), args.verbose)
+        model, _ = Algo().get_algo(algo)(Domain(), args.verbose)
     
     env = make_vec_env(Domain().get('name'), n_envs=10)
     model.learn(total_timesteps=1000, reset_num_timesteps=True if model is None else False)
