@@ -90,3 +90,16 @@ python il_experiments.py \
   organization={IEEE}
 }
 ```
+
+## Contributions to Imitation Learning
+- [Imitating Unknown Policies via Exploration](https://arxiv.org/pdf/2008.05660.pdf)
+- [Augmented behavioral cloning from observation](https://arxiv.org/pdf/2004.13529.pdf)
+- [Self-supervised imitation learning from observation](https://repositorio.pucrs.br/dspace/bitstream/10923/17536/1/000500266-Texto%2Bcompleto-0.pdf)
+
+
+## If you have any doubt, do not hesitate to contact us!
+:envelope:	Nathan Gavenski - nathan.gavenski@edu.pucrs.br\
+:envelope:	Juarez Monteiro - juarez.santos@edu.pucrs.br\
+:envelope:	Adilson Medronha - adilson.medronha@edu.pucrs.br\
+:envelope:	Rodrigo C. Barros - rodrigo.barros@pucrs.br
+
