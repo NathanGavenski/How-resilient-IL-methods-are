@@ -43,8 +43,8 @@ torchaudio==0.7.0
 
 ## Downloading the data
 
-You can download the data we use to train each model [here](). \
-Or use the script in `./scrpts/download.sh` (*It uses `gdown` as a dependency*).
+You can download the data we use to train each model [here](https://huggingface.co/datasets/NathanGavenski/How-Resilient-are-Imitation-Learning-Methods-to-Sub-Optimal-Experts). \
+Or use the script in `./scrpts/download.sh` (*It uses `git lfs` as a dependency*).
 
 ---
 
